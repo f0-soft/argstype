@@ -1,0 +1,34 @@
+{
+	"name": "f0.argstype",
+	"version": "0.0.1",
+	"description": "Deep function arguments type check",
+	"license": "BSD",
+	"author": {
+		"name": "Vitaliy glukki Meschaninov",
+		"email": "vm@f0-soft.ru",
+		"url": "http://f0-soft.ru"
+	},
+
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/f0-soft/argstype.git"
+	},
+	"bugs": {
+		"url": "https://github.com/f0-soft/argstype/issues"
+	},
+
+	"main": "index.js",
+	"scripts": {
+		"test": "nodeunit test"
+	},
+
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+
+	"keywords": [
+		"arguments", "deep", "type", "check"
+	]
+}
